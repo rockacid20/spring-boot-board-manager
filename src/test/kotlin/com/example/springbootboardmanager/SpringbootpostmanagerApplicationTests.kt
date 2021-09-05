@@ -1,4 +1,4 @@
-package com.example.springbootpostmanager
+package com.example.springbootboardmanager
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

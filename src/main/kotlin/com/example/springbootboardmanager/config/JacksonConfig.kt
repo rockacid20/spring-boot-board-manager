@@ -1,4 +1,4 @@
-package com.example.springbootpostmanager.config
+package com.example.springbootboardmanager.config
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule

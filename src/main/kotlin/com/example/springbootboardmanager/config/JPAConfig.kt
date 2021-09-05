@@ -1,4 +1,4 @@
-package com.example.springbootpostmanager.config
+package com.example.springbootboardmanager.config
 
 import org.springframework.context.annotation.Configuration
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing

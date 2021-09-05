@@ -1,9 +1,9 @@
-package com.example.springbootpostmanager.entity
+package com.example.springbootboardmanager.entity
 
 import javax.persistence.*
 
 @Entity
-data class Post(
+data class Board(
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     var idx :Long,

@@ -1,6 +1,6 @@
-package com.example.springbootpostmanager.dto
+package com.example.springbootboardmanager.dto
 
-data class PostDTO(
+data class BoardDTO(
     var title : String,
     var content : String,
     var author : String,
